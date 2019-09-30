@@ -16,7 +16,7 @@ public class Player_Move : Move
     {
         player_move();
         player_jump();
-        //player_cam_move();
+        player_cam_move();
     }
 
     private void player_move()
